@@ -1,6 +1,5 @@
 {
   "name": "template-docker-react",
-  "author": "mr.sirichai janpan",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
